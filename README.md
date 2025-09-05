@@ -1,8 +1,9 @@
 # 📜 BTC-Puzzle Export Script – Overview
 An **open source Bitcoin script**. Use the bruteforce random to crack the BTC puzzle game.
 
-Do you like this work? why don't you buy me a coffee?
-₿ = 000000000
+### 🪙 Donations are Welcome!
+If you find this project helpful, you can support my work with a small donation.
+**₿ Bitcoin:** `bc1q...`
 
 # 🎯 Objective
 This script automates the process of finding solutions to the btc puzzle and creates organized CSV exports with all tested keys and addresses, along with the solution (if) found.
